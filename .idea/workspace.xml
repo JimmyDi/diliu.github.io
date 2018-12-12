@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d82db9-0cab-475b-ba6a-238703ee789a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-robotCup.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/robotCup.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/skills.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/header-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/header-background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/coffee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/farmerboy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/girl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/into-the-light.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/judah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-coffee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-farmerboy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-girl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-intothelight.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-judah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-origami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-retrocam.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/origami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/retrocam.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,20 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="561" column="43" selection-start-line="561" selection-start-column="43" selection-end-line="561" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/layout.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+            <state relative-caret-position="154">
+              <caret line="407" column="87" selection-start-line="407" selection-start-column="87" selection-end-line="407" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -51,6 +54,10 @@
       <find>favicon</find>
       <find>CeeVee</find>
       <find>free</find>
+      <find>android</find>
+      <find>stupid</find>
+      <find>about</find>
+      <find>sth.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -59,8 +66,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/layout.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -95,6 +102,19 @@
             <path>
               <item name="diliuResume" type="b2602c69:ProjectViewProjectNode" />
               <item name="diliuResume" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diliuResume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diliuResume" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="modals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diliuResume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diliuResume" type="462c0819:PsiDirectoryNode" />
               <item name="inc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -112,8 +132,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/portfolio" />
+      <recent name="$PROJECT_DIR$/images/portfolio/modals" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -139,20 +160,20 @@
       <option name="presentableId" value="Default" />
       <updated>1544538042341</updated>
       <workItem from="1544538043825" duration="1591000" />
-      <workItem from="1544540290278" duration="4146000" />
+      <workItem from="1544540290278" duration="4385000" />
+      <workItem from="1544622149287" duration="7172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5737000" />
+    <option name="totallyTimeSpent" value="13148000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
+    <frame x="16" y="25" width="1251" height="763" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924812" visible="true" weight="0.16521049" />
-      <window_info id="Structure" order="1" sideWeight="0.50075185" side_tool="true" visible="true" weight="0.16521049" />
-      <window_info id="Favorites" order="2" sideWeight="0.50075185" side_tool="true" weight="0.16521049" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49770993" visible="true" weight="0.1691057" />
+      <window_info id="Structure" order="1" sideWeight="0.5028818" side_tool="true" weight="0.15841584" />
+      <window_info id="Favorites" order="2" sideWeight="0.50229007" side_tool="true" visible="true" weight="0.1691057" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -251,9 +272,7 @@
     <entry file="file://$PROJECT_DIR$/css/fonts/librebaskerville/librebaskerville-bold-webfont.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -261,9 +280,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.png" />
     <entry file="file://$PROJECT_DIR$/images/portfolio/modals/m-coffee.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -314,19 +331,8 @@
     <entry file="file://$PROJECT_DIR$/images/testimonials-bg.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-142" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2189" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/readme.txt" />
     <entry file="file://$PROJECT_DIR$/css/media-queries.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -339,20 +345,20 @@
     <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="561" column="43" selection-start-line="561" selection-start-column="43" selection-end-line="561" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/header-background.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+          <caret line="327" column="1" selection-start-line="327" selection-start-column="1" selection-end-line="327" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="407" column="87" selection-start-line="407" selection-start-column="87" selection-end-line="407" selection-end-column="87" />
         </state>
       </provider>
     </entry>
