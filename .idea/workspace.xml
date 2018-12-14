@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d82db9-0cab-475b-ba6a-238703ee789a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/portfolio/competitionOfTransport.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/freescale.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/lottery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-competitionOfTransport.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-freescale.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-lottery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-patternClassification.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-robotCup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-shoppingSystem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-temperature.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/patternClassification.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/shoppingSystem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/temperature.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/profilepic.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-robotCup.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profilepic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/robotCup.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/robotCup.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -38,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+            <state relative-caret-position="141">
+              <caret line="497" column="63" selection-start-line="497" selection-start-column="63" selection-end-line="497" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -101,6 +85,12 @@
             <path>
               <item name="diliuResume" type="b2602c69:ProjectViewProjectNode" />
               <item name="diliuResume" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diliuResume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diliuResume" type="462c0819:PsiDirectoryNode" />
               <item name="inc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -118,9 +108,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/portfolio" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/portfolio/modals" />
-      <recent name="$PROJECT_DIR$/images/portfolio" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -147,20 +137,20 @@
       <updated>1544538042341</updated>
       <workItem from="1544538043825" duration="1591000" />
       <workItem from="1544540290278" duration="4385000" />
-      <workItem from="1544622149287" duration="12463000" />
+      <workItem from="1544622149287" duration="15303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18439000" />
+    <option name="totallyTimeSpent" value="21279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1338" height="766" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969605" visible="true" weight="0.30447987" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969605" visible="true" weight="0.1632498" />
       <window_info id="Structure" order="1" sideWeight="0.5028818" side_tool="true" weight="0.15841584" />
-      <window_info id="Favorites" order="2" sideWeight="0.50303954" side_tool="true" visible="true" weight="0.30447987" />
+      <window_info id="Favorites" order="2" sideWeight="0.50303954" side_tool="true" visible="true" weight="0.1632498" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -350,8 +340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        <state relative-caret-position="141">
+          <caret line="497" column="63" selection-start-line="497" selection-start-column="63" selection-end-line="497" selection-end-column="63" />
         </state>
       </provider>
     </entry>
