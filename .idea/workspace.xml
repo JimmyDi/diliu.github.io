@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="157" column="37" selection-start-line="157" selection-start-column="37" selection-end-line="157" selection-end-column="37" />
+            <state relative-caret-position="368">
+              <caret line="521" column="120" selection-start-line="521" selection-start-column="120" selection-end-line="521" selection-end-column="120" />
             </state>
           </provider>
         </entry>
@@ -43,6 +43,7 @@
       <find>sth.</find>
       <find>transport</find>
       <find>crypto4a</find>
+      <find>lottery</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -56,10 +57,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1338" />
-    <option name="height" value="766" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1509" />
+    <option name="y" value="95" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -139,15 +141,16 @@
       <workItem from="1544538043825" duration="1591000" />
       <workItem from="1544540290278" duration="4385000" />
       <workItem from="1544622149287" duration="15846000" />
-      <workItem from="1545428808263" duration="195000" />
+      <workItem from="1545428808263" duration="219000" />
+      <workItem from="1546484858248" duration="110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22017000" />
+    <option name="totallyTimeSpent" value="22151000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="766" extended-state="6" />
+    <frame x="1509" y="95" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969605" visible="true" weight="0.16282764" />
@@ -312,8 +315,8 @@
     <entry file="file://$PROJECT_DIR$/images/profilepic.jpg" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="157" column="37" selection-start-line="157" selection-start-column="37" selection-end-line="157" selection-end-column="37" />
+        <state relative-caret-position="368">
+          <caret line="521" column="120" selection-start-line="521" selection-start-column="120" selection-end-line="521" selection-end-column="120" />
         </state>
       </provider>
     </entry>
